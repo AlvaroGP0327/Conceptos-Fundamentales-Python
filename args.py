@@ -66,5 +66,3 @@ print(type(dias_semana))
 #No se admite como operacion valida desempaquetar el iterable
 #que se recibe.
 #dentro de la funcion se opera con el iterable recibido con *args
-
-

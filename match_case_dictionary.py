@@ -1,5 +1,12 @@
-# pedir una recomendacion de libro,pelicula o comida
-#CICLO WHILE
+'''El objetivo de este archivo es servir como
+referencia para la sintaxis de la tradicional
+estructura de control de flujo match-case.
+Ademas de establecer un ciclo infinito mediante
+la sentencia while True. Que se rompe cuando
+se ejecute un break dentro del ciclo while.
+Se observa que las funciones se pueden llamar
+dentro de la estructura de control'''
+
 def libro():
     print('LEA MATEMATICAS')
 
